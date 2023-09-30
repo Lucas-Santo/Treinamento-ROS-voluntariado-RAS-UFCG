@@ -13,4 +13,4 @@ Materiais:
 - [Playback com "Ros2 BAG"](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools/Recording-And-Playing-Back-Data/Recording-And-Playing-Back-Data.html)
 
 Desafio extra:
--Criar um arquivo em python para criar uma trajetória automatizada
+- Criar um arquivo em python para criar uma trajetória automatizada
